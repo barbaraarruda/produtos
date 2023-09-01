@@ -27,7 +27,7 @@ Front and Back-End Development Project for studies on Java Web Development using
 <i>Java/OpenJDK e o MySQL Server.</i>
 2. Na sua máquina, o git precisa estar configurado corretamente. Para mais detalhes, acesse: <a href="https://docs.github.com/pt/get-started/quickstart/set-up-git">configuração do Git</a>
 3. Clone este repositório para sua máquina. Digite no terminal: 
-<code>git clone https://github.com/barbaraarruda/produtos.git</code> e dẽ enter.
+<code>git clone https://github.com/barbaraarruda/produtos.git</code> e dê enter.
 4. Abra a pasta do repositório na sua IDE de preferência.
 5. Use o <code>run java</code> para inicializar o back-end e <code>npm start</code> dentro da pasta de front para inicializar o front-end.
 6. Não se esqueça de modificar a conexão com o banco de dados. Abra a aplicação em servidor local e aproveite. 
